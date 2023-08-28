@@ -7,7 +7,7 @@ Hi, My name is Aaron <a href="https://www.linkedin.com/in/aaron-leib-57968527b/"
   - [osTicket: Post-Installation Configuration](https://github.com/Leibwatcher/Post-Install-Configuration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Leibwatcher/Ticket-Lifecycle-Examples)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Leibwatcher/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Leibwatcher/Configuring-On-premises-Active-Directory-within-Azure-VMs)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Leibwatcher/Network-Security-Groups--NSGs-and-Inspecting-Network-Protocols.git)
 
 <h2>🤳Connect with me:</h2>
